@@ -9,8 +9,7 @@
 - sapka
 - zokni
 - óra
-5. Szponzorációk: Ádám
-6. Sport cuccok: Ádám
+5. Sport cuccok: Ádám
 
 ## Egyéb:
 - css: Ádám
