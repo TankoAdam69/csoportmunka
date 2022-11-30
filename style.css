@@ -43,3 +43,38 @@ nav input[type=text] {
 nav input:focus-within {
     border-radius: 5px;
 }
+
+.cipok1{
+    text-align: center;
+}
+
+
+.cipok1 img{
+    width: 460px;
+    padding-left: 14px;
+    padding-right: 14px;
+    padding-bottom: 36px;
+    margin-top: 100px;
+}
+
+.cipok1 img:hover{
+    transform: scale(1.1);
+    transition: 200ms;
+}
+
+
+.cipok img{
+    width: 460px;
+    padding-left: 14px;
+    padding-right: 14px;
+    padding-bottom: 36px;
+}
+
+.cipok :hover{
+    transform: scale(1.1);
+    transition: 200ms;
+}
+
+.cipok{
+    text-align: center;
+}
