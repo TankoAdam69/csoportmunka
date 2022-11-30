@@ -27,6 +27,7 @@ nav li a {
 #logo {
     height: 75px;
     width: auto;
+    cursor: pointer;
 }
 
 nav input[type=text] {
@@ -37,4 +38,8 @@ nav input[type=text] {
     font-family: 'Ubuntu', sans-serif;
     border-color: #000;
     border-radius: 30px;
+}
+
+nav input:focus-within {
+    border-radius: 5px;
 }
