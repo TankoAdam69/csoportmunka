@@ -88,3 +88,58 @@ nav input:focus-within {
     text-align: center;
     margin-left: 210px;
 }
+
+.basketball1{
+    text-align: center;
+    margin-left: 210px;
+}
+
+.basketball1 img{
+    width: 460px;
+    padding-left: 14px;
+    padding-right: 14px;
+    padding-bottom: 36px;
+    margin-top: 100px;
+    float: left;
+}
+
+.basketball1 img:hover{
+    transform: scale(1.1);
+    transition: 200ms;
+}
+
+.basketball img{
+    width: 460px;
+    padding-left: 14px;
+    padding-right: 14px;
+    padding-bottom: 36px;
+    float: left;
+}
+
+.basketball :hover{
+    transform: scale(1.1);
+    transition: 200ms;
+}
+
+.basketball{
+    text-align: center;
+    margin-left: 210px;
+}
+
+.skateboard img{
+    width: 460px;
+    padding-left: 14px;
+    padding-right: 14px;
+    padding-bottom: 36px;
+    float: left;
+}
+
+.skateboard :hover{
+    transform: scale(1.1);
+    transition: 200ms;
+}
+
+.skateboard{
+    text-align: center;
+    margin-left: 210px;
+}

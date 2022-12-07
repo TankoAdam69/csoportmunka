@@ -1,9 +1,9 @@
-# Ni(c)ke
+# Nike
 ## Oldalak:
 1. Főoldal: Alex és Ádám
 2. Cipők: Tomi
 - Jordan
-- sima
+- Utcai
 3. Ruhák: Tomi
 4. Kiegészítők: Alex
 - sapka
