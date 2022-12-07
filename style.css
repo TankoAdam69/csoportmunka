@@ -52,12 +52,12 @@ nav input:focus-within {
     border-radius: 5px;
 }
 
-.cipok1{
+.shoes1{
     text-align: center;
     margin-left: 210px;
 }
 
-.cipok1 img{
+.shoes1 img{
     width: 460px;
     padding-left: 14px;
     padding-right: 14px;
@@ -66,12 +66,12 @@ nav input:focus-within {
     float: left;
 }
 
-.cipok1 img:hover{
+.shoes1 img:hover{
     transform: scale(1.1);
     transition: 200ms;
 }
 
-.cipok img{
+.shoes img{
     width: 460px;
     padding-left: 14px;
     padding-right: 14px;
@@ -79,45 +79,12 @@ nav input:focus-within {
     float: left;
 }
 
-.cipok :hover{
+.shoes :hover{
     transform: scale(1.1);
     transition: 200ms;
 }
 
-.cipok{
+.shoes{
     text-align: center;
     margin-left: 210px;
 }
-
-/* .text{
-    position: absolute;
-    top: 16cm;
-    left: 12.5cm;
-    transform: translate(-50%, -50%);
-    font-family: 'Ubuntu', sans-serif;
-    font-size: larger;
-    color: #000;
-    cursor: pointer;
-}
-
-.text2{
-    position: absolute;
-    top: 16cm;
-    left: 25.5cm;
-    transform: translate(-50%, -50%);
-    font-family: 'Ubuntu', sans-serif;
-    font-size: larger;
-    color: #000;
-    cursor: pointer;
-}
-
-.text3{
-    position: absolute;
-    top: 16cm;
-    left: 38.5cm;
-    transform: translate(-50%, -50%);
-    font-family: 'Ubuntu', sans-serif;
-    font-size: larger;
-    color: #000;
-    cursor: pointer;
-} */
