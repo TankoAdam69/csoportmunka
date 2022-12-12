@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     background-color: #fff;
+    font-family: 'Ubuntu', sans-serif;
 }
 
 .header {
@@ -142,4 +143,27 @@ nav input:focus-within {
 .skateboard{
     text-align: center;
     margin-left: 210px;
+}
+
+.clothes{
+    padding-top: 12vh;
+    margin-left: 250px;
+}
+
+h2{
+    font-weight: 300;
+
+}
+
+hr{
+    width: 1400px;
+}
+
+.clothes img{
+    width: 460px;
+    padding-left: 14px;
+    padding-right: 14px;
+    padding-bottom: 36px;
+    padding-top: 40px;
+    float: left;
 }
