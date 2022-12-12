@@ -143,3 +143,21 @@ nav input:focus-within {
     text-align: center;
     margin-left: 210px;
 }
+
+.football img{
+    width: 460px;
+    padding-left: 14px;
+    padding-right: 14px;
+    padding-bottom: 36px;
+    float: left;
+}
+
+.football :hover{
+    transform: scale(1.1);
+    transition: 200ms;
+}
+
+.football{
+    text-align: center;
+    margin-left: 210px;
+}
