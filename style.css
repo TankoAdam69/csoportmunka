@@ -145,6 +145,7 @@ nav input:focus-within {
     margin-left: 210px;
 }
 
+<<<<<<< HEAD
 .clothes{
     padding-top: 12vh;
     margin-left: 250px;
@@ -160,10 +161,27 @@ hr{
 }
 
 .clothes img{
+=======
+.football img{
+>>>>>>> 86185949f6fcca26b267a9a02eb840a837e98726
     width: 460px;
     padding-left: 14px;
     padding-right: 14px;
     padding-bottom: 36px;
+<<<<<<< HEAD
     padding-top: 40px;
     float: left;
+=======
+    float: left;
+}
+
+.football :hover{
+    transform: scale(1.1);
+    transition: 200ms;
+}
+
+.football{
+    text-align: center;
+    margin-left: 210px;
+>>>>>>> 86185949f6fcca26b267a9a02eb840a837e98726
 }
