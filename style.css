@@ -186,3 +186,40 @@ hr{
     margin-left: 210px;
 
 }
+
+.hats1{
+    text-align: center;
+    margin-left: 210px;
+}
+
+.hats1 img{
+    width: 460px;
+    padding-left: 14px;
+    padding-right: 14px;
+    padding-bottom: 36px;
+    margin-top: 100px;
+    float: left;
+}
+
+.hats1 img:hover{
+    transform: scale(1.1);
+    transition: 200ms;
+}
+
+.hats img{
+    width: 460px;
+    padding-left: 14px;
+    padding-right: 14px;
+    padding-bottom: 36px;
+    float: left;
+}
+
+.hats :hover{
+    transform: scale(1.1);
+    transition: 200ms;
+}
+
+.hats{
+    text-align: center;
+    margin-left: 210px;
+}
