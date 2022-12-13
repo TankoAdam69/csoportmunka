@@ -4,12 +4,12 @@
 2. Cipők: Tomi
 - Jordan
 - Utcai
-3. Ruhák: Tomi
+3. Ruhák: Ádám
 4. Kiegészítők: Alex
 - sapka
 - zokni
 - óra
-5. Sport cuccok: Ádám
+5. Sport cuccok: Tomi
 
 ## Egyéb:
 - css: Ádám
