@@ -167,6 +167,11 @@ hr{
     margin-top: 100px;
     float: left;
 }
+
+.clothes img:hover{
+    transform: scale(1.1);
+    transition: 200ms;
+}
 .football img{
     width: 460px;
     padding-left: 14px;
