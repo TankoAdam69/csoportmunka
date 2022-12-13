@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     background-color: #fff;
+    font-family: 'Ubuntu', sans-serif;
 }
 
 .header {
@@ -144,11 +145,33 @@ nav input:focus-within {
     margin-left: 210px;
 }
 
+<<<<<<< HEAD
+.clothes{
+    padding-top: 12vh;
+    margin-left: 250px;
+}
+
+h2{
+    font-weight: 300;
+
+}
+
+hr{
+    width: 1400px;
+}
+
+.clothes img{
+=======
 .football img{
+>>>>>>> 86185949f6fcca26b267a9a02eb840a837e98726
     width: 460px;
     padding-left: 14px;
     padding-right: 14px;
     padding-bottom: 36px;
+<<<<<<< HEAD
+    padding-top: 40px;
+    float: left;
+=======
     float: left;
 }
 
@@ -160,4 +183,5 @@ nav input:focus-within {
 .football{
     text-align: center;
     margin-left: 210px;
+>>>>>>> 86185949f6fcca26b267a9a02eb840a837e98726
 }
