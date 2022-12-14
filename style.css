@@ -229,3 +229,22 @@ hr{
     margin-left: 210px;
 }
 
+
+.balls img{
+    width: 460px;
+    padding-left: 14px;
+    padding-right: 14px;
+    padding-bottom: 36px;
+    float: left;
+}
+
+.balls :hover{
+    transform: scale(1.1);
+    transition: 200ms;
+}
+
+.balls{
+    text-align: center;
+    margin-left: 210px;
+}
+
