@@ -56,6 +56,8 @@ nav input:focus-within {
 .shoes1{
     text-align: center;
     margin-left: 210px;
+    display: inline-flex;
+    font-weight: 30px;
 }
 
 .shoes1 img{
@@ -67,11 +69,6 @@ nav input:focus-within {
     float: left;
 }
 
-.shoes1 img:hover{
-    transform: scale(1.1);
-    transition: 200ms;
-}
-
 .shoes img{
     width: 460px;
     padding-left: 14px;
@@ -80,14 +77,32 @@ nav input:focus-within {
     float: left;
 }
 
-.shoes :hover{
+.shoes{
+    text-align: center;
+    margin-left: 210px;
+    display: inline-flex;
+    font-weight: 30px;
+}
+
+.container {
+    position: relative;
+}
+
+.container :hover{
     transform: scale(1.1);
     transition: 200ms;
 }
 
-.shoes{
-    text-align: center;
-    margin-left: 210px;
+.text-block {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    left: 20px;
+    color: black;
+    margin-bottom: 1cm;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: rgb(246, 246, 246);
+    font-size: 25px;
 }
 
 .basketball1{
@@ -247,7 +262,10 @@ hr{
     text-align: center;
     margin-left: 210px;
 }
+<<<<<<< HEAD
 
 h2{
     clear: both;
 }
+=======
+>>>>>>> 42ad9dc1a0e53b5b0eaa82fe8d9e2fd6b9065107
