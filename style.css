@@ -53,6 +53,16 @@ nav input:focus-within {
     border-radius: 5px;
 }
 
+.sbs img {
+    width: 400px;
+    height: auto;
+    margin-top: 25px;
+    margin-left: 175px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 36px;
+}
+
 .shoes1{
     text-align: center;
     margin-left: 210px;
