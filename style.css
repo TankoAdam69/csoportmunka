@@ -154,3 +154,68 @@ h2{
     font-weight: 300;
     clear: both;
 }
+
+.jordan{
+    margin-left: 12%;
+    margin-right: 12%;
+    cursor: pointer;
+}
+
+.luka1{
+    margin-top: 10%;
+}
+
+#forthelove{
+    text-align: center;
+    font-size: 12pt;
+    margin-top: 12px;
+}
+
+.cimsor{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 32pt;
+    margin-top: 12px;
+}
+
+.szöveg{
+    text-align: center;
+    margin-top: 12px;
+    font-size: 12px;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.cim{
+    margin-top: 2cm;
+    margin-bottom: 10px;
+}
+
+td, th { 
+    padding: 4px;
+}
+
+td a{
+    text-decoration: none;
+    color: white;
+}
+    
+table {
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 20px;
+    border-collapse: collapse;
+    text-align: center;
+    padding: 4px;
+    width: 40%;
+}
+
+td{
+    font-size: 12px;
+    color: gray;
+}
+
+a{
+    color: #000;
+    text-decoration: none;
+}

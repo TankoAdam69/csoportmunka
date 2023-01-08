@@ -9,7 +9,7 @@
 - sapka
 - zokni
 - óra
-5. Sport cuccok: Tomi
+5. Sport cuccok: Alex
 
 ## Egyéb:
 - css: Ádám
